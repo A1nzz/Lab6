@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Projects\Лаба 6\Task 1\Task 1\Source.cpp(10,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\Лаба 6\Task 1\Task 1\Source.cpp(44,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\Лаба 6\Task 1\Task 1\Source.cpp(58,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\Лаба 6\Task 1\Task 1\Source.cpp(64,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Task 1.vcxproj -> D:\Projects\Lab 6\Debug\Task 1.exe
